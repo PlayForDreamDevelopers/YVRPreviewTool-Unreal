@@ -1,0 +1,10 @@
+{
+	"BuildId": "17155196",
+	"Modules": 
+	{
+		"YvrLivePreviewEditor": "UE4Editor-YvrLivePreviewEditor-0003.dll",
+		"YvrLivePreviewHMD": "UE4Editor-YvrLivePreviewHMD-0003.dll",
+		"YvrLivePreviewInput": "UE4Editor-YvrLivePreviewInput-0003.dll",
+		"YvrLivePreviewService": "UE4Editor-YvrLivePreviewService-0003.dll"
+	}
+}
